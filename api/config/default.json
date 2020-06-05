@@ -1,0 +1,11 @@
+{
+  "databases": {
+    "users": "./databases/users.json",
+    "answers": "./databases/answers.json",
+    "questions": "./databases/questions.json"
+  },
+
+  "routes": {
+    "requests": "./routes/requests.js"
+  }
+}
